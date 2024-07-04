@@ -55,6 +55,8 @@ img:hover {
     transform: rotate(90deg);
 }
 
+.red {color: #e00;}
+
 ul {
     margin: 30px;
     padding-left: 30px;
